@@ -1,4 +1,4 @@
-# hotmail-email-availability-checker
+# Hotmail Availability Checker
 
 ![hotmail-email-availability-checker](https://raw.githubusercontent.com/thepythoncode97/hotmail-email-availability-checker/refs/heads/main/hotmail-email-availability-checker.png)
 
